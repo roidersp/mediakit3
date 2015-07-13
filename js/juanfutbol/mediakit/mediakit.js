@@ -58,7 +58,7 @@ $(document).ready(function() {
 	
     $('#indepth_page1').fullpage({
 	    menu: '#myMenu',
-		anchors: ['quien-soy','quien-soy2','quien-soy3','mis-visitantes','indepth-numeros','indepth-juan-lab','indepth-formatos','indepth-influencers','indepth-showroom','juanificate'],
+		anchors: ['quien-soy','quien-soy2','me-gusta','mis-visitantes','indepth-numeros','indepth-juan-lab','indepth-formatos','indepth-influencers','indepth-showroom','juanificate'],
 	    scrollOverflow: true,
 	    normalScrollElements: '.indepth_formato_img_cont, .indepth_formato_modal',
 	    scrollbar: true,
@@ -68,14 +68,11 @@ $(document).ready(function() {
 	    scrollingSpeed: 1000,
 	    afterLoad: function(anchorLink, index){
             var leavingSection = $(this);
-			
-			console.log(index);
-			
+						
             //after leaving section 2
-            if(index <= 3 ){
-	            console.log("down "+index);
+            if(index <= 2 ){
                 $("#indepth_quien").addClass("iactive");
-                if(index==3){
+                if(index==2){
 	                $("#myMenu li:first").addClass("active");
                 }
             }else{

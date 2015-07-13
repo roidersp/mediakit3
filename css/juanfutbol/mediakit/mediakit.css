@@ -96,7 +96,7 @@ body{
 }
 
 .indepth_juanes_section{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Portada/juanfutbol.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Portada/juanfutbol.png);
 	background-repeat: no-repeat;
 	background-position: 50% 10%;
 	background-position: fixed;
@@ -135,7 +135,7 @@ body{
 .indepth_indepth_menu_bar{
 	width: 100px;
 	height: 23px;
-	background-image: url(../../../images/juanfutbol/juanMediakit/Scrollmark/Label.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Scrollmark/Label.png);
 	float: left;
 	font-size: 13px;
 	color: white;
@@ -265,7 +265,7 @@ li .indepth_menu_ball:hover{
 }
 
 #indepth_visitantes{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Portada/Visitantes.jpg) , url(../../../images/juanfutbol/juanMediakit/Portada/Gradiente.jpg);
+	background-image: url(/images/juanfutbol/juanMediakit/Portada/Visitantes.jpg) , url(/images/juanfutbol/juanMediakit/Portada/Gradiente.jpg);
 	background-position: center center;
 	background-size: auto 100%, auto 100%; ;
 	background-repeat: no-repeat,repeat;
@@ -585,14 +585,14 @@ li .indepth_menu_ball:hover{
 
 .indepth_genero.femenino{
 	text-align: left;
-	background-image: url(../../../images/juanfutbol/juanMediakit/MisNumeros/Mujeres.png);
+	background-image: url(/images/juanfutbol/juanMediakit/MisNumeros/Mujeres.png);
 	background-position: right center;
 	float: left;
 }
 
 .indepth_genero.masculino{
 	text-align: right;
-	background-image: url(../../../images/juanfutbol/juanMediakit/MisNumeros/Hombres.png);
+	background-image: url(/images/juanfutbol/juanMediakit/MisNumeros/Hombres.png);
 	background-position: left center;
 	float: right;
 }
@@ -625,7 +625,7 @@ li .indepth_menu_ball:hover{
 }
 
 #indepth_juanfluencer_back{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Juanfluencers/pixel.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Juanfluencers/pixel.png);
 	width: 100%;
 	position: absolute;
 	bottom: 0;
@@ -640,7 +640,7 @@ li .indepth_menu_ball:hover{
 .indepth_juanfluencers_content{
 	width: 100%;
 	height: 300px;
-	background-image: url(../../../images/juanfutbol/juanMediakit/Juanfluencers/pixel.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Juanfluencers/pixel.png);
 	background-repeat: repeat;
 	color: white;
 	font-family: 'Abel';
@@ -677,13 +677,13 @@ li .indepth_menu_ball:hover{
 }
 
 .indepth_juanfluencers_red.arriba{
-	background-image:  url(../../../images/juanfutbol/juanMediakit/Juanfluencers/red_arriba.png);
+	background-image:  url(/images/juanfutbol/juanMediakit/Juanfluencers/red_arriba.png);
 	position: relative;
 	background-position: center bottom;
 }
 
 .indepth_juanfluencers_red.abajo{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Juanfluencers/red_abajo.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Juanfluencers/red_abajo.png);
 	background-position: center top;
 	height: 320px;
 	
@@ -813,107 +813,107 @@ li .indepth_menu_ball:hover{
 }
 
 #indepth_formato_item_1 .indepth_formato_img {
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/FeaturedJuan.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/FeaturedJuan.png);
 }
 
 #indepth_formato_item_1 .indepth_formato_img:hover{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/FeaturedJuan_hover.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/FeaturedJuan_hover.png);
 }
 
 #indepth_formato_item_2 .indepth_formato_img {
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/Billboard.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/Billboard.png);
 }
 
 #indepth_formato_item_2 .indepth_formato_img:hover{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/Billboard_hover.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/Billboard_hover.png);
 }
 
 #indepth_formato_item_3 .indepth_formato_img {
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/Listicle.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/Listicle.png);
 }
 
 #indepth_formato_item_3 .indepth_formato_img:hover{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/Listicle_hover.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/Listicle_hover.png);
 }
 
 #indepth_formato_item_4 .indepth_formato_img {
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/Infografia.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/Infografia.png);
 }
 
 #indepth_formato_item_4 .indepth_formato_img:hover{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/Infografia_hover.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/Infografia_hover.png);
 }
 
 #indepth_formato_item_5 .indepth_formato_img {
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/LoQuiero.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/LoQuiero.png);
 }
 
 #indepth_formato_item_5 .indepth_formato_img:hover{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/LoQuiero_hover.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/LoQuiero_hover.png);
 }
 
 #indepth_formato_item_6 .indepth_formato_img {
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/Slider.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/Slider.png);
 }
 
 #indepth_formato_item_6 .indepth_formato_img:hover{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/Slider_hover.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/Slider_hover.png);
 }
 
 #indepth_formato_item_7 .indepth_formato_img {
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/Rubik.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/Rubik.png);
 }
 
 #indepth_formato_item_7 .indepth_formato_img:hover{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/Rubik_hover.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/Rubik_hover.png);
 }
 
 #indepth_formato_item_8 .indepth_formato_img {
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/Splash.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/Splash.png);
 }
 
 #indepth_formato_item_8 .indepth_formato_img:hover{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/Splash_hover.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/Splash_hover.png);
 }
 
 #indepth_formato_item_9 .indepth_formato_img {
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/Indepth.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/Indepth.png);
 }
 
 #indepth_formato_item_9 .indepth_formato_img:hover{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/Indepth_hover.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/Indepth_hover.png);
 }
 
 #indepth_formato_item_10 .indepth_formato_img {
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/Native.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/Native.png);
 }
 
 #indepth_formato_item_10 .indepth_formato_img:hover{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/Native_hover.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/Native_hover.png);
 }
 
 #indepth_formato_item_11 .indepth_formato_img {
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/Postal.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/Postal.png);
 }
 
 #indepth_formato_item_11 .indepth_formato_img:hover{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/Postal_hover.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/Postal_hover.png);
 }
 
 #indepth_formato_item_12 .indepth_formato_img {
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/Tradicional.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/Tradicional.png);
 }
 
 #indepth_formato_item_12 .indepth_formato_img:hover{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/Tradicional_hover.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/Tradicional_hover.png);
 }
 
 #indepth_formato_item_13 .indepth_formato_img {
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/Juanpartner.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/Juanpartner.png);
 }
 
 #indepth_formato_item_13 .indepth_formato_img:hover{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Iconos/Juanpartner_hover.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Iconos/Juanpartner_hover.png);
 }
 
 .indepth_text_cont{
@@ -954,18 +954,18 @@ li .indepth_menu_ball:hover{
 	position: absolute;
 	width: 27px;
 	height: 17px;
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/VerEjemplo.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/VerEjemplo.png);
 	top: 50px;
 	right: 0;
 	cursor: pointer;
 }
 
 .indepth_icon_ver:hover{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/VerEjemplo_hover.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/VerEjemplo_hover.png);
 }
 
 #indepth_juan_lab{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Juanfluencers/pixel.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Juanfluencers/pixel.png);
 }
 
 .indepth_lab_title{
@@ -1037,27 +1037,27 @@ li .indepth_menu_ball:hover{
 }
 
 #indepth_fomato_1 .indepth_formato_modal_img{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Ejemplos/Featured.jpg);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Ejemplos/Featured.jpg);
 }
 
 #indepth_fomato_2 .indepth_formato_modal_img{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Ejemplos/Billboard.jpg);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Ejemplos/Billboard.jpg);
 }
 
 #indepth_fomato_3 .indepth_formato_modal_img{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Ejemplos/Listicle.jpg);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Ejemplos/Listicle.jpg);
 }
 
 #indepth_fomato_4 .indepth_formato_modal_img{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Ejemplos/Infografia.jpg);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Ejemplos/Infografia.jpg);
 }
 
 #indepth_fomato_5 .indepth_formato_modal_img{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Ejemplos/LoQuiero.jpg);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Ejemplos/LoQuiero.jpg);
 }
 
 #indepth_fomato_6 .indepth_formato_modal_img{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Ejemplos/Slider.jpg);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Ejemplos/Slider.jpg);
 }
 
 #indepth_fomato_7 .indepth_formato_modal_img{
@@ -1065,21 +1065,21 @@ li .indepth_menu_ball:hover{
 }
 
 #indepth_fomato_8 .indepth_formato_modal_img{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Ejemplos/Splash.jpg);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Ejemplos/Splash.jpg);
 }
 #indepth_fomato_9 .indepth_formato_modal_img{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Ejemplos/Indepth.jpg);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Ejemplos/Indepth.jpg);
 }
 
 #indepth_fomato_10 .indepth_formato_modal_img{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Ejemplos/Native.jpg);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Ejemplos/Native.jpg);
 }
 
 #indepth_fomato_11 .indepth_formato_modal_img{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Ejemplos/Postal.jpg);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Ejemplos/Postal.jpg);
 }
 #indepth_fomato_12 .indepth_formato_modal_img{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Formatos/Ejemplos/Tradicional.jpg);
+	background-image: url(/images/juanfutbol/juanMediakit/Formatos/Ejemplos/Tradicional.jpg);
 }
 #indepth_fomato_13 .indepth_formato_modal_img{
 	background-image: ;
@@ -1121,7 +1121,7 @@ li .indepth_menu_ball:hover{
 
 
 #indepth_showroom{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Juanfluencers/pixel.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Juanfluencers/pixel.png);
 
 }
 
@@ -1204,7 +1204,7 @@ li .indepth_menu_ball:hover{
 .indepth_juanificate_picos{
 	height: 16px;
 	width: 100%;
-	background-image: url(../../../images/juanfutbol/juanMediakit/Juanificate/Picos.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Juanificate/Picos.png);
 }
 
 .indepth_juanificate_content{
@@ -1258,13 +1258,13 @@ li .indepth_menu_ball:hover{
 .indepth_juanifiacte_mail{
 	margin-top: 5px;
 	padding-bottom: 30px;
-	background-image: url(../../../images/juanfutbol/juanMediakit/Juanificate/Email.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Juanificate/Email.png);
 	background-position: center bottom;
 	background-repeat: no-repeat;
 }
 
 #section_juanificate{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Juanfluencers/pixel.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Juanfluencers/pixel.png);
 	
 }
 
@@ -1586,7 +1586,7 @@ li .indepth_menu_ball:hover{
 }
 
 .visitantes_slide{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Visitantes/Fondo.jpg);
+	background-image: url(/images/juanfutbol/juanMediakit/Visitantes/Fondo.jpg);
 	
 	
 }
@@ -1622,47 +1622,47 @@ li .indepth_menu_ball:hover{
 }
 
 #visitantes_slide1 .indepth_slider_img{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Visitantes/1.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Visitantes/1.png);
 	
 }
 
 #visitantes_slide2 .indepth_slider_img{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Visitantes/2.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Visitantes/2.png);
 	
 }
 
 #visitantes_slide3 .indepth_slider_img{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Visitantes/3.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Visitantes/3.png);
 	
 }
 
 #visitantes_slide4 .indepth_slider_img{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Visitantes/4.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Visitantes/4.png);
 	
 }
 
 #visitantes_slide5 .indepth_slider_img{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Visitantes/5.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Visitantes/5.png);
 	
 }
 
 #visitantes_slide6 .indepth_slider_img{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Visitantes/6.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Visitantes/6.png);
 	
 }
 
 #visitantes_slide7 .indepth_slider_img{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Visitantes/7.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Visitantes/7.png);
 	
 }
 
 #visitantes_slide8 .indepth_slider_img{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Visitantes/8.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Visitantes/8.png);
 	
 }
 
 #visitantes_slide9 .indepth_slider_img{
-	background-image: url(../../../images/juanfutbol/juanMediakit/Visitantes/9.png);
+	background-image: url(/images/juanfutbol/juanMediakit/Visitantes/9.png);
 	
 }
 
@@ -1949,7 +1949,7 @@ li .indepth_menu_ball:hover{
 	}
 	
 	.indepth_juanfluencers_red.arriba{
-		background-image: url(../../../images/juanfutbol/juanMediakit/Juanfluencers/RedArriba_movil.png);
+		background-image: url(/images/juanfutbol/juanMediakit/Juanfluencers/RedArriba_movil.png);
 		background-size: 605px auto;
 		height: 212px;
 	}
@@ -1988,7 +1988,7 @@ li .indepth_menu_ball:hover{
 	}
 	
 	.indepth_gif_container{
-		background-image: url(../../../images/juanfutbol/juanMediakit/Juanfluencers/pixel.png);
+		background-image: url(/images/juanfutbol/juanMediakit/Juanfluencers/pixel.png);
 	}
 	
 	.indepth_formato_item{
